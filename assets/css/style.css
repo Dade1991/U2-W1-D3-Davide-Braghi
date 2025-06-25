@@ -47,6 +47,7 @@ body {
   flex-direction: column;
   overflow: hidden;
   background-color: #fbf7e3;
+  box-shadow: 1px 1px 5px rgba(128, 128, 128, 0.322);
 }
 
 .card img {
@@ -109,6 +110,7 @@ nav {
   justify-content: space-evenly;
   flex-direction: row;
   background-color: #fbf7e3;
+  box-shadow: 1px 1px 5px rgba(128, 128, 128, 0.322);
 }
 
 nav button {
@@ -149,6 +151,7 @@ nav button {
     justify-content: space-evenly;
     flex-direction: column-reverse;
     background-color: #fbf7e3;
+    box-shadow: 1px 1px 5px rgba(128, 128, 128, 0.322);
   }
 
   .article-description {
@@ -177,6 +180,7 @@ nav button {
     flex-direction: row;
     background-color: #fbf7e3;
     align-items: start;
+    box-shadow: 1px 1px 5px rgba(128, 128, 128, 0.322);
   }
 
   .article-description {
